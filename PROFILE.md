@@ -1,6 +1,6 @@
 # Annabel Kihara
 
-![Hello, here is my profile!](/images/avatar.png =200x200)
+![Hello, here is my profile!](/images/avatar.png)
 ## **BIO** 
 I have worked in digital marketing for the last 6 years but now am learning to how to code in hopes of becoming a software engineer! 
 ## **EDUCATION** 
